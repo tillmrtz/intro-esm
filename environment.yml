@@ -1,0 +1,16 @@
+# conda env create -f environment.yml
+name: intro-esm
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.14
+  - numpy
+  - matplotlib
+
+  - ipython
+  - ipykernel
+  - ipywidgets
+
+  - scipy
