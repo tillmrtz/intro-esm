@@ -1,15 +1,15 @@
-axes.titlesize : 18
-axes.labelsize : 12
+axes.titlesize : 20
+axes.labelsize : 18
 date.autoformatter.day: %Y-%m-%d
 date.converter: auto
 figure.figsize: 10,6
 font.family: Times New Roman
 font.style:   normal
-font.size: 12
-legend.fontsize: 12
+font.size: 16
+legend.fontsize: 14
 lines.linewidth : 1
 lines.linestyle: -
 lines.markersize : 10
-xtick.labelsize : 12
+xtick.labelsize : 16
 xtick.alignment: center
-ytick.labelsize : 12
+ytick.labelsize : 16
